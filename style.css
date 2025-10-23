@@ -4,7 +4,7 @@ Body{
   color: #0000ff ;
 }
 
-.profil {
+.kartu-profil {
   widht:200px;
   margin:50px auto;
   padding:20px;
@@ -15,7 +15,7 @@ text-align: center;
   
 }
 
-.profil img {
+.kartu-profil img {
   widht: 100px;
   border-radius:50%;
 }
